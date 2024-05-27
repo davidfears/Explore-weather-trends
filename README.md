@@ -1,7 +1,6 @@
 # Explore-weather-trends
 
-
-Udacity Data Analyst Degree - Project I
+Data Analyst - Project I
 
 Overview
 
@@ -17,7 +16,7 @@ Extracting Data
 
 To start I wrote an SQL query to retrieve all the temperature data from:
 
-Local Database (Abu Dhabi)
+Local Database
 Global Database
 Upon retrieving the data, it was extracted on a CSV file for further evaluation.
 
